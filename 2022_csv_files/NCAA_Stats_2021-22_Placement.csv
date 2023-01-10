@@ -1,0 +1,69 @@
+Seed,Team,Conference,Overall rank,Berth type,Placement
+1,Gonzaga,West Coast,1,Auto,16
+2,Duke,ACC,8,At-Large,4
+3,Texas Tech,Big 12,12,At-Large,16
+4,Arkansas,SEC,16,At-Large,8
+5,Connecticut,Big East,17,At-Large,64
+6,Alabama,SEC,21,At-Large,64
+7,Michigan State,Big Ten,27,At-Large,32
+8,Boise State,Mountain West,29,Auto,64
+9,Memphis,American,36,At-Large,32
+10,Davidson,Atlantic 10,40,At-Large,64
+11,Rutgers,Big Ten,44,At-Large,68
+11,Notre Dame,ACC,47,At-Large,32
+12,New Mexico State,WAC,50,Auto,32
+13,Vermont,America East,53,Auto,64
+14,Montana State,Big Sky,58,Auto,64
+15,Cal State Fullerton,Big West,62,Auto,64
+16,Georgia State,Sun Belt,63,Auto,64
+1,Baylor,Big 12,4,At-Large,32
+2,Kentucky,SEC,6,At-Large,64
+3,Purdue,Big Ten,11,At-Large,16
+4,UCLA,Pac–12,13,At-Large,16
+5,Saint Mary's,West Coast,19,At-Large,32
+6,Texas,Big 12,23,At-Large,32
+7,Murray State,Ohio Valley,26,Auto,32
+8,North Carolina,ACC,30,At-Large,2
+9,Marquette,Big East,35,At-Large,64
+10,San Francisco,West Coast,37,At-Large,64
+11,Virginia Tech,ACC,46,Auto,64
+12,Wyoming,Mountain West,43,At-Large,68
+12,Indiana,Big Ten,45,At-Large,64
+13,Akron,MAC,54,Auto,64
+14,Yale,Ivy,56,Auto,64
+15,Saint Peter's,MAAC,60,Auto,8
+16,Norfolk State,MEAC,64,Auto,64
+1,Arizona,Pac–12,2,Auto,16
+2,Villanova,Big East,7,Auto,4
+3,Tennessee,SEC,10,Auto,32
+4,Illinois,Big Ten,14,At-Large,32
+5,Houston,American,18,Auto,8
+6,Colorado State,Mountain West,24,At-Large,64
+7,Ohio State,Big Ten,28,At-Large,32
+8,Seton Hall,Big East,32,At-Large,64
+9,TCU,Big 12,34,At-Large,32
+10,Loyola Chicago,Missouri Valley,39,Auto,64
+11,Michigan,Big Ten,42,At-Large,16
+12,UAB,C-USA,48,Auto,64
+13,Chattanooga,Southern,51,Auto,64
+14,Longwood,Big South,55,Auto,64
+15,Delaware,Colonial,59,Auto,64
+16,Wright State,Horizon,65,Auto,64
+16,Bryant,Northeast,66,Auto,68
+1,Kansas,Big 12,3,Auto,1
+2,Auburn,SEC,5,At-Large,32
+3,Wisconsin,Big Ten,9,At-Large,32
+4,Providence,Big East,15,At-Large,16
+5,Iowa,Big Ten,20,Auto,64
+6,LSU,SEC,22,At-Large,64
+7,USC,Pac–12,25,At-Large,64
+8,San Diego State,Mountain West,31,At-Large,64
+9,Creighton,Big East,33,At-Large,32
+10,Miami (FL),ACC,38,At-Large,8
+11,Iowa State,Big 12,41,At-Large,16
+12,Richmond,Atlantic 10,49,Auto,32
+13,South Dakota State,Summit,52,Auto,64
+14,Colgate,Patriot,57,Auto,64
+15,Jacksonville State,ASUN,61,Auto,64
+16,Texas Southern,SWAC,67,Auto,64
+16,Texas A&M–Corpus Christi,Southland,68,Auto,68

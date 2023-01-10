@@ -1,0 +1,69 @@
+Seed,Team,Conference,Overall rank,Berth type,Placement
+1,Gonzaga,WCC,1,Automatic,2
+2,Iowa,Big Ten,7,At-Large,32
+3,Kansas,Big 12,12,At-Large,32
+4,Virginia,ACC,16,At-Large,64
+5,Creighton,Big East,17,At-Large,16
+6,Southern California,Pac-12,21,At-Large,8
+7,Oregon,Pac-12,25,At-Large,16
+8,Oklahoma,Big 12,32,At-Large,32
+9,Missouri,SEC,33,At-Large,64
+10,VCU,Atlantic 10,38,At-Large,64
+11,Wichita St.,AAC,45,At-Large,68
+11,Drake,MVC,48,At-Large,64
+12,UC Santa Barbara,Big West,50,Automatic,64
+13,Ohio,MAC,51,Automatic,32
+14,Eastern Wash.,Big Sky,58,Automatic,64
+15,Grand Canyon,WAC,59,Automatic,64
+16,Norfolk St.,MEAC,67,Automatic,64
+16,App State,Sun Belt,68,Automatic,68
+1,Michigan,Big Ten,4,At-Large,8
+2,Alabama,SEC,5,Automatic,16
+3,Texas,Big 12,11,Automatic,64
+4,Florida St.,ACC,13,At-Large,16
+5,Colorado,Pac-12,20,At-Large,32
+6,BYU,WCC,23,At-Large,64
+7,UConn,Big East,26,At-Large,64
+8,LSU,SEC,29,At-Large,32
+9,St. Bonaventure,Atlantic 10,39,Automatic,64
+10,Maryland,Big Ten,36,At-Large,32
+11,Michigan St.,Big Ten,43,At-Large,68
+11,UCLA,Pac-12,44,At-Large,4
+12,Georgetown,Big East,47,Automatic,64
+13,UNC Greensboro,SoCon,54,Automatic,64
+14,Abilene Christian,Southland,55,Automatic,32
+15,Iona,MAAC,62,Automatic,64
+16,Mount St. Mary's,NEC,65,Automatic,68
+16,Texas Southern,SWAC,66,Automatic,64
+1,Illinois,Big Ten,3,Automatic,32
+2,Houston,AAC,8,Automatic,4
+3,West Virginia,Big 12,10,At-Large,32
+4,Oklahoma St.,Big 12,15,At-Large,32
+5,Tennessee,SEC,19,At-Large,64
+6,San Diego St.,Mountain West,24,Automatic,64
+7,Clemson,ACC,27,At-Large,64
+8,Loyola Chicago,MVC,30,Automatic,16
+9,Georgia Tech,ACC,34,Automatic,64
+10,Rutgers,Big Ten,40,At-Large,32
+11,Syracuse,ACC,41,At-Large,16
+12,Oregon St.,Pac-12,46,Automatic,8
+13,Liberty,ASUN,53,Automatic,64
+14,Morehead St.,OVC,56,Automatic,64
+15,Cleveland St.,Horizon,60,Automatic,64
+16,Drexel,CAA,63,Automatic,64
+1,Baylor,Big 12,2,At-Large,1
+2,Ohio St.,Big Ten,6,At-Large,64
+3,Arkansas,SEC,9,At-Large,8
+4,Purdue,Big Ten,14,At-Large,64
+5,Villanova,Big East,18,At-Large,16
+6,Texas Tech,Big 12,22,At-Large,32
+7,Florida,SEC,28,At-Large,32
+8,North Carolina,ACC,31,At-Large,64
+9,Wisconsin,Big Ten,35,At-Large,32
+10,Virginia Tech,ACC,37,At-Large,64
+11,Utah St.,Mountain West,42,At-Large,64
+12,Winthrop,Big South,49,Automatic,64
+13,North Texas,C-USA,52,Automatic,32
+14,Colgate,Patriot,57,Automatic,64
+15,Oral Roberts,Summit League,61,Automatic,16
+16,Hartford,America East,64,Automatic,64

@@ -1,0 +1,341 @@
+Rank,Team,PPG,OPP PPG,SCR MAR
+1,Gonzaga (WCC),91,69.7,21.3
+2,Houston (AAC),76.1,58.2,17.8
+3,Baylor (Big 12),82.9,65.5,17.4
+4,Colgate (Patriot),85.2,69.6,15.6
+5,Abilene Christian (Southland),75.7,60.4,15.3
+6,Loyola Chicago (MVC),71,56.1,15
+7,Southern Utah (Big Sky),84.2,69.5,14.7
+8,Wright St. (Horizon),82,67.4,14.5
+9,Liberty (ASUN),74.4,60,14.4
+10,Grand Canyon (WAC),75.5,62.1,13.4
+11,UC Santa Barbara (Big West),76,62.8,13.1
+12,Weber St. (Big Sky),81.8,69.3,12.5
+13,San Diego St. (Mountain West),73.6,61.2,12.5
+14,UAB (C-USA),72.6,60.3,12.3
+15,Belmont (OVC),81.3,69.1,12.2
+16,Illinois (Big Ten),80.5,68.6,11.9
+17,Winthrop (Big South),78.9,67,11.8
+18,Drake (MVC),75.9,64.5,11.5
+19,Coastal Carolina (Sun Belt),79.5,68.2,11.3
+20,Fla. Atlantic (C-USA),78.1,66.8,11.3
+21,Iowa (Big Ten),83.7,72.7,11
+22,Furman (SoCon),79.6,68.9,10.7
+23,Michigan (Big Ten),75.8,65.1,10.7
+24,Arkansas (SEC),81.4,70.8,10.6
+25,Utah St. (Mountain West),72.6,62.3,10.2
+26,Southern California (Pac-12),74.9,65.1,9.8
+27,Memphis (AAC),72.4,62.7,9.7
+28,SFA (Southland),80.3,70.7,9.6
+29,Vermont (America East),73,63.4,9.6
+30,Alabama (SEC),79.7,70.1,9.6
+31,Saint Louis (Atlantic 10),75,65.4,9.6
+32,Murray St. (OVC),76.4,66.9,9.5
+33,BYU (WCC),78.1,68.6,9.5
+34,Colorado (Pac-12),73.1,63.8,9.3
+35,Texas Tech (Big 12),72.5,63.2,9.3
+36,Sam Houston (Southland),79.6,70.3,9.3
+37,Boise St. (Mountain West),75.8,66.7,9.1
+38,St. Bonaventure (Atlantic 10),70,61.1,9
+39,UC Irvine (Big West),72.2,63.4,8.8
+40,McNeese (Southland),80.3,71.8,8.5
+41,Toledo (MAC),81.1,72.6,8.5
+42,Buffalo (MAC),81.4,72.9,8.4
+43,Tennessee (SEC),71.9,63.5,8.4
+44,Villanova (Big East),74.8,66.5,8.3
+45,Bryant (NEC),83.8,75.6,8.1
+46,Eastern Ky. (OVC),81.8,73.7,8.1
+47,Florida St. (ACC),77.2,69.2,8
+48,Eastern Wash. (Big Sky),78.3,70.4,7.9
+49,Creighton (Big East),76,68.2,7.7
+50,Virginia (ACC),68.2,60.5,7.7
+51,Louisiana Tech (C-USA),73.1,65.4,7.7
+52,James Madison (CAA),78.1,70.5,7.7
+53,Georgia St. (Sun Belt),80.3,72.7,7.6
+53,Davidson (Atlantic 10),71.8,64.1,7.6
+55,Kansas City (Summit League),70.1,62.6,7.5
+56,North Texas (C-USA),69.8,62.3,7.5
+57,Marshall (C-USA),79.9,72.5,7.4
+58,Colorado St. (Mountain West),74,66.8,7.2
+59,UConn (Big East),71.7,64.6,7.2
+60,Prairie View (SWAC),71.3,64.2,7
+61,Missouri St. (MVC),73.4,66.4,7
+62,South Dakota St. (Summit League),80.4,73.5,7
+63,New Mexico St. (WAC),71.1,64.2,7
+64,Arizona (Pac-12),75.4,68.6,6.8
+65,Morgan St. (MEAC),79.8,73,6.8
+66,Ohio (MAC),79.2,72.6,6.6
+67,LSU (SEC),81.8,75.2,6.6
+68,UC Riverside (Big West),70.2,63.6,6.5
+69,Wofford (SoCon),74.3,67.8,6.5
+70,VCU (Atlantic 10),71.7,65.2,6.5
+71,SMU (AAC),74.6,68.1,6.5
+72,Oregon (Pac-12),74.9,68.4,6.5
+72,Idaho St. (Big Sky),68.2,61.7,6.5
+74,App State (Sun Belt),70.3,64.1,6.2
+75,Texas (Big 12),74.4,68.2,6.1
+76,Kansas (Big 12),73,66.9,6.1
+77,Virginia Tech (ACC),72,66,6.1
+78,Ohio St. (Big Ten),77.2,71.1,6.1
+79,Akron (MAC),78.2,72.2,6
+80,Jacksonville St. (OVC),74.3,68.6,5.7
+81,Richmond (Atlantic 10),74.7,69,5.7
+82,UNC Greensboro (SoCon),73,67.3,5.6
+83,CSU Bakersfield (Big West),69.7,64,5.6
+84,Kent St. (MAC),76.7,71.1,5.6
+85,UTSA (C-USA),78.8,73.3,5.5
+86,Oral Roberts (Summit League),81.1,75.6,5.5
+87,West Virginia (Big 12),77.3,72,5.3
+88,Wisconsin (Big Ten),69.9,64.6,5.3
+89,North Carolina (ACC),75.2,69.9,5.3
+90,Iona (MAAC),71.3,66.1,5.2
+91,Ole Miss (SEC),68.8,63.6,5.2
+92,Nicholls (Southland),78.4,73.2,5.2
+93,UCLA (Pac-12),73.4,68.4,5
+94,Mercer (SoCon),76.7,71.8,4.9
+95,Georgia Tech (ACC),74.9,70,4.9
+96,Morehead St. (OVC),68.8,64.1,4.7
+97,Duke (ACC),76,71.3,4.7
+98,Western Ky. (C-USA),72.7,68,4.7
+99,UTRGV (WAC),72.4,67.7,4.7
+100,Wichita St. (AAC),71.5,66.8,4.7
+101,Texas St. (Sun Belt),66.4,61.7,4.7
+102,Syracuse (ACC),74.8,70.1,4.7
+103,Oklahoma (Big 12),74.5,69.9,4.7
+104,UMBC (America East),69.5,64.9,4.7
+105,Xavier (Big East),74.8,70.2,4.6
+106,Siena (MAAC),67.6,63,4.6
+107,Navy (Patriot),71.5,67,4.5
+108,Texas Southern (SWAC),73.9,69.5,4.4
+109,Purdue (Big Ten),71,66.6,4.4
+110,Austin Peay (OVC),74.3,70,4.3
+111,Seattle U (WAC),72.9,68.6,4.3
+112,VMI (SoCon),80,75.9,4.2
+113,Nevada (Mountain West),73.7,69.7,4
+114,Florida (SEC),74.2,70.3,3.9
+114,Norfolk St. (MEAC),73.6,69.7,3.9
+116,Oklahoma St. (Big 12),76.6,72.7,3.9
+117,Ga. Southern (Sun Belt),71.5,67.8,3.8
+118,South Dakota (Summit League),76,72.2,3.8
+119,Montana (Big Sky),70.8,67,3.8
+120,Massachusetts (Atlantic 10),76.7,73,3.7
+121,UT Arlington (Sun Belt),73.7,70.3,3.4
+122,Chattanooga (SoCon),72.6,69.3,3.3
+123,ETSU (SoCon),69.4,66.2,3.3
+124,Pepperdine (WCC),76.9,73.6,3.3
+125,Maryland (Big Ten),68.9,65.6,3.3
+126,South Alabama (Sun Belt),74.1,70.9,3.2
+127,NC State (ACC),72.8,69.7,3.1
+128,Arkansas St. (Sun Belt),72.5,69.5,3.1
+129,Bradley (MVC),69.6,66.6,3
+129,Radford (Big South),67.6,64.6,3
+129,Clemson (ACC),64.9,61.9,3
+132,Drexel (CAA),70.3,67.4,3
+133,Bowling Green (MAC),77.5,74.6,2.9
+134,Campbell (Big South),71,68.1,2.9
+135,Oregon St. (Pac-12),70.5,67.6,2.8
+136,Tulsa (AAC),68.4,65.6,2.8
+137,FGCU (ASUN),71.8,69,2.8
+137,Jackson St. (SWAC),65.6,62.8,2.8
+139,Lipscomb (ASUN),71.2,68.4,2.7
+140,UNCW (CAA),76.3,73.7,2.6
+141,Wagner (NEC),71.2,68.7,2.5
+142,Detroit Mercy (Horizon),76.5,74,2.5
+143,Mississippi St. (SEC),69.3,66.8,2.5
+144,Hawaii (Big West),71.6,69.1,2.4
+145,The Citadel (SoCon),80.8,78.4,2.4
+146,Utah (Pac-12),72.1,69.8,2.3
+147,Gardner-Webb (Big South),70.7,68.4,2.3
+148,UTEP (C-USA),70.8,68.5,2.2
+149,Army West Point (Patriot),71.7,69.5,2.2
+149,Portland St. (Big Sky),68.7,66.5,2.2
+151,St. John's (NY) (Big East),79,76.7,2.2
+151,Youngstown St. (Horizon),74.4,72.2,2.2
+153,San Francisco (WCC),71.4,69.3,2.2
+154,Montana St. (Big Sky),74,72,2.1
+155,North Dakota St. (Summit League),69.7,67.7,2.1
+156,UNLV (Mountain West),69.4,67.5,2
+157,Dayton (Atlantic 10),69.8,67.8,2
+158,Monmouth (MAAC),76,74.3,1.8
+159,Saint Peter's (MAAC),63.2,61.5,1.7
+160,Rutgers (Big Ten),69.2,67.6,1.6
+161,Saint Mary's (CA) (WCC),64.2,62.6,1.6
+162,Louisiana (Sun Belt),74.4,72.8,1.6
+163,Seton Hall (Big East),71.3,69.7,1.6
+164,Missouri (SEC),73.4,71.9,1.5
+164,Hartford (America East),65.4,63.9,1.5
+164,LMU (CA) (WCC),69.5,68,1.5
+167,Northern Colo. (Big Sky),70.5,69,1.5
+168,Louisville (ACC),68,66.5,1.4
+169,George Mason (Atlantic 10),71.3,69.9,1.4
+170,Washington St. (Pac-12),68.6,67.4,1.2
+171,Loyola Maryland (Patriot),72.1,70.9,1.2
+172,Wyoming (Mountain West),76.6,75.5,1.1
+173,Stetson (ASUN),71.3,70.2,1.1
+174,LIU (NEC),74,72.9,1.1
+175,Pittsburgh (ACC),71.2,70.1,1
+176,Mount St. Mary's (NEC),63.2,62.2,1
+176,Lafayette (Patriot),77.7,76.7,1
+178,Auburn (SEC),77.2,76.4,0.7
+179,Elon (CAA),65.7,65,0.7
+180,Miami (OH) (MAC),72.3,71.6,0.7
+181,Albany (NY) (America East),69.4,68.7,0.7
+182,Indiana St. (MVC),66.5,65.8,0.7
+183,Old Dominion (C-USA),68.3,67.7,0.7
+184,Col. of Charleston (CAA),70.6,69.9,0.6
+184,New Hampshire (America East),67.3,66.6,0.6
+186,UNC Asheville (Big South),73.4,72.8,0.6
+187,Stony Brook (America East),66.2,65.6,0.6
+188,Rhode Island (Atlantic 10),71.4,71.1,0.4
+189,Indiana (Big Ten),69.7,69.4,0.3
+189,UC Davis (Big West),71.9,71.6,0.3
+191,Kentucky (SEC),70.4,70.2,0.3
+192,Rice (C-USA),73.9,73.6,0.2
+193,Northwestern (Big Ten),70.2,70,0.2
+194,Little Rock (Sun Belt),68.7,68.5,0.2
+195,Stanford (Pac-12),69.7,69.6,0.1
+196,Northern Ky. (Horizon),71.4,71.2,0.1
+197,Providence (Big East),69.8,69.7,0.1
+198,Hofstra (CAA),73.1,73,0.1
+199,Delaware (CAA),67.5,67.5,0.1
+200,Sacramento St. (Big Sky),72.2,72.1,0.1
+201,Marquette (Big East),69.7,69.8,-0.1
+202,Utah Valley (WAC),74.2,74.3,-0.1
+203,Duquesne (Atlantic 10),66.9,67.1,-0.2
+204,Marist (MAAC),63.4,63.6,-0.2
+205,Georgetown (Big East),71.4,71.7,-0.2
+206,N.C. A&T (MEAC),72.2,72.5,-0.3
+207,Cleveland St. (Horizon),70.9,71.2,-0.3
+208,Penn St. (Big Ten),72.6,73,-0.4
+209,Southern U. (SWAC),69.8,70.3,-0.4
+210,New Orleans (Southland),76,76.4,-0.4
+211,Georgia (SEC),77.5,78,-0.5
+212,Niagara (MAAC),64.7,65.2,-0.6
+213,Vanderbilt (SEC),71.8,72.4,-0.6
+214,Minnesota (Big Ten),72.5,73.2,-0.7
+215,Milwaukee (Horizon),75.5,76.3,-0.7
+216,Ball St. (MAC),74.7,75.5,-0.7
+217,Canisius (MAAC),70.4,71.2,-0.8
+218,Pacific (WCC),69.8,70.7,-0.9
+219,Santa Clara (WCC),69.7,70.6,-0.9
+220,Northeastern (CAA),67.2,68.3,-1.1
+221,Fresno St. (Mountain West),66.3,67.4,-1.1
+222,East Carolina (AAC),66.8,67.9,-1.2
+223,Grambling (SWAC),67.4,68.7,-1.3
+224,Quinnipiac (MAAC),67.5,69,-1.5
+225,Cal St. Fullerton (Big West),77,78.6,-1.6
+226,Longwood (Big South),66.2,67.8,-1.6
+227,UNI (MVC),69.5,71.2,-1.6
+228,Notre Dame (ACC),72.7,74.3,-1.7
+229,Michigan St. (Big Ten),69.4,71.1,-1.7
+230,St. Francis Brooklyn (NEC),77.7,79.5,-1.8
+231,Jacksonville (ASUN),67.6,69.5,-1.9
+232,UCF (AAC),67.2,69.4,-2.2
+233,Bucknell (Patriot),74.9,77.3,-2.4
+234,UMass Lowell (America East),68.5,70.9,-2.4
+235,Southern Miss. (C-USA),64.2,66.7,-2.5
+236,Southern Ill. (MVC),65.5,68.1,-2.5
+237,Tulane (AAC),63.9,66.5,-2.6
+238,Samford (SoCon),76.8,79.5,-2.6
+239,Southeast Mo. St. (OVC),69,71.7,-2.7
+239,Texas A&M (SEC),64.3,66.9,-2.7
+241,FIU (C-USA),73.6,76.3,-2.7
+242,Arizona St. (Pac-12),74.3,77.1,-2.8
+243,Florida A&M (SWAC),65.7,68.5,-2.8
+244,Illinois St. (MVC),72,74.8,-2.8
+245,Valparaiso (MVC),65,67.9,-2.9
+246,Presbyterian (Big South),64.1,67.1,-3
+247,Central Mich. (MAC),76.8,79.8,-3
+247,Temple (AAC),65.8,68.8,-3
+249,High Point (Big South),66.7,69.9,-3.2
+250,Cincinnati (AAC),68.9,72.1,-3.2
+251,Charlotte (C-USA),63.5,66.7,-3.2
+252,Western Caro. (SoCon),75.5,78.9,-3.3
+253,Purdue Fort Wayne (Horizon),75.1,78.7,-3.5
+254,Fairleigh Dickinson (NEC),75,78.8,-3.7
+255,UIW (Southland),68,71.7,-3.8
+256,California (Pac-12),65.4,69.2,-3.8
+257,Manhattan (MAAC),63.4,67.2,-3.9
+258,Alabama A&M (SWAC),63.3,67.2,-3.9
+259,Troy (Sun Belt),65.3,69.4,-4
+260,NJIT (America East),66.1,70.2,-4.1
+261,George Washington (Atlantic 10),68.1,72.3,-4.2
+262,Kennesaw St. (ASUN),65.5,69.7,-4.2
+263,Nebraska (Big Ten),70,74.2,-4.3
+264,N.C. Central (MEAC),67.3,71.6,-4.4
+265,Hampton (Big South),68.8,73.2,-4.4
+266,TCU (Big 12),66.8,71.2,-4.5
+267,Saint Francis (PA) (NEC),68.9,73.4,-4.5
+267,American (Patriot),69.1,73.6,-4.5
+269,Miami (FL) (ACC),66.4,71,-4.5
+270,Boston U. (Patriot),69.4,73.9,-4.6
+271,IUPUI (Horizon),71.2,75.8,-4.6
+272,UIC (Horizon),67.7,72.3,-4.6
+273,ULM (Sun Belt),64.2,68.9,-4.7
+274,Sacred Heart (NEC),70.3,75,-4.7
+275,Evansville (MVC),64.8,69.6,-4.8
+276,Fairfield (MAAC),61.8,66.7,-4.9
+277,Green Bay (Horizon),71.6,76.5,-4.9
+278,Butler (Big East),63.5,68.7,-5.2
+279,Eastern Mich. (MAC),70.4,75.7,-5.3
+280,North Florida (ASUN),69.6,75,-5.4
+281,Holy Cross (Patriot),70.6,76.1,-5.4
+282,La Salle (Atlantic 10),68.1,73.5,-5.4
+283,Eastern Ill. (OVC),69.4,74.9,-5.5
+284,South Fla. (AAC),65.9,71.4,-5.5
+285,CSUN (Big West),72.1,77.7,-5.6
+286,Tennessee St. (OVC),68.4,74,-5.6
+287,Long Beach St. (Big West),73.8,79.4,-5.7
+288,Wake Forest (ACC),66.3,72,-5.7
+289,DePaul (Big East),65.8,71.9,-6.2
+290,Robert Morris (Horizon),72.3,78.6,-6.3
+291,Coppin St. (MEAC),72.8,79.1,-6.3
+292,Western Ill. (Summit League),73,79.4,-6.4
+293,New Mexico (Mountain West),65.3,71.7,-6.5
+294,Rider (MAAC),67.5,74,-6.5
+295,Oakland (Horizon),74.7,81.2,-6.5
+296,Lamar University (Southland),65.8,72.4,-6.5
+297,South Carolina (SEC),72.5,79.1,-6.6
+298,A&M-Corpus Christi (Southland),64.8,71.5,-6.8
+299,Binghamton (America East),65.4,72.3,-6.9
+300,North Dakota (Summit League),68.7,75.7,-7
+301,Northwestern St. (Southland),72.6,79.7,-7.1
+302,William & Mary (CAA),64.8,71.9,-7.1
+303,SIUE (OVC),65.7,73,-7.2
+304,Alabama St. (SWAC),64.2,71.6,-7.3
+305,Towson (CAA),67.4,74.9,-7.5
+306,Boston College (ACC),71.3,79.5,-8.2
+307,Lehigh (Patriot),68.3,76.6,-8.3
+308,Charleston So. (Big South),65.5,73.8,-8.3
+309,Kansas St. (Big 12),61.8,70.2,-8.4
+310,USC Upstate (Big South),65.9,74.4,-8.6
+311,Middle Tenn. (C-USA),62,70.7,-8.7
+312,Central Conn. St. (NEC),68.5,77.4,-8.9
+312,Western Mich. (MAC),63.1,72,-8.9
+314,Houston Baptist (Southland),71,80.3,-9.2
+315,Denver (Summit League),69.8,79.1,-9.3
+316,Cal Poly (Big West),61.5,70.8,-9.4
+317,Southeastern La. (Southland),68.3,77.7,-9.4
+318,Alcorn (SWAC),66.1,75.6,-9.5
+319,Central Ark. (Southland),70.9,80.5,-9.7
+320,Washington (Pac-12),67.7,77.4,-9.7
+321,Tennessee Tech (OVC),66.6,76.9,-10.3
+322,Saint Joseph's (Atlantic 10),72.2,82.6,-10.4
+323,Omaha (Summit League),67.3,78,-10.6
+324,San Diego (WCC),66.2,77.1,-10.9
+325,Iowa St. (Big 12),65.6,76.7,-11.1
+326,Northern Ariz. (Big Sky),63.2,74.5,-11.4
+327,Maine (America East),53.1,64.6,-11.4
+328,UT Martin (OVC),65.5,77,-11.5
+329,Howard (MEAC),72.6,84.8,-12.2
+330,Air Force (Mountain West),58.7,71.9,-13.2
+331,Portland (WCC),69.5,83.2,-13.8
+332,Fordham (Atlantic 10),51.8,66.6,-14.8
+333,Ark.-Pine Bluff (SWAC),62,76.8,-14.9
+334,Delaware St. (MEAC),70.8,85.7,-14.9
+335,Northern Ill. (MAC),62.3,77.4,-15.1
+336,Idaho (Big Sky),61,76.5,-15.4
+337,San Jose St. (Mountain West),65.8,81.3,-15.6
+338,South Carolina St. (MEAC),61.2,78.6,-17.3
+339,Mississippi Val. (SWAC),56.8,87.4,-30.5
+340,Chicago St. (WAC),55.4,88.7,-33.2
