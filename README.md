@@ -1,1 +1,2 @@
 # NCAA_Basketball
+Each csv_files folder contains the original data pulled from NCAA website, the python code used to transform them, and the new excel sheets created for each year. In addition there is a word document titled Basketball Initial essay giving a picture of my project goals. NCAA_Final_Stats is the finished data that combines every year of data into one. I also made a power point titled Basketball Presentation that summarizes my findings and illustrates my conclusions.
